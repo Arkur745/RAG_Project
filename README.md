@@ -54,7 +54,7 @@ Upload any PDF, ask questions about its content, and enjoy a contextual conversa
 
 1. **Run the app:**
     ```bash
-    streamlit run app.py
+    streamlit run app3.py
     ```
 
 2. **Open your browser** to the Streamlit URL (usually [http://localhost:8501](http://localhost:8501)).
